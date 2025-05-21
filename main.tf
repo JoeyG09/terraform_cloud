@@ -5,8 +5,8 @@
 #
 #  
 #----------------------------------------------------------
-variable "acct"{
-default="136725693089"
+variable "accountid"{
+
 }
 
 provider "aws" {
